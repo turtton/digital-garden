@@ -27,7 +27,7 @@
     "@types/wanakana": "^5.0.0",
     "directory-tree": "^3.2.2",
     "fs": "^0.0.1-security",
-    "fuse.js": "^6.6.2",
+    "fuse.js": "^7.0.0",
     "hast-util-to-html": "^9.0.0",
     "jotai": "^2.0.1",
     "katex": "^0.16.4",
